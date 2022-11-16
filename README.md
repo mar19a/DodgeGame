@@ -14,6 +14,7 @@ The Game has two difficulties normal and hard. The difference between hard and n
 Player has a health bar, which lowers if player touches an enemy. THe score increases as player stays alive in the game. And the level increases every 250 points. 
 
 By pressing the "p" the player can pause the game.
+Pressing the space brings up the game shop
 
 ![](dodgeshop.gif)
 

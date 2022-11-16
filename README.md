@@ -17,4 +17,4 @@ By pressing the "p" the player can pause the game.
 
 ![](dodgeshop.gif)
 
-The game has a build in shop where player can upgrade health. speed, or refill health in exchange of their score. The cost increases by 100 everytime a user upgrades of these things.
+The game has a build in shop where player can upgrade health. speed, or refill health in exchange of their score. The cost increases by 100 everytime a user upgrades one of these things.

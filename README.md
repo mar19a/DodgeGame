@@ -7,7 +7,7 @@ How did I accomplished the menu? Here is an overview.
 
 First, I made boxes containing letters for the different menu options such as play, help, and exit. I extended to MouseAdapter, and put a boundary box in each of these options meaning if the mouse was released in either of these options then we will proceed with this option. 
 
-Don't worry the freeze in the HELP section is intentional.
+Do not worry the freeze in the HELP section is intentional.
 
 
 ![](dodgegameplay.gif)

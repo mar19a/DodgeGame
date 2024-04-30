@@ -14,7 +14,7 @@ Do not worry the freeze in the HELP section is intentional.
 
 The Game has two difficulties normal and hard. The difference between hard and normal is that the enemy speed increases, get smarter, different type of enemies such as fast enemy, hard enemy, enemy boss, smart enemy, and basic enemy. 
 
-Player has a health bar, which lowers if player touches an enemy. THe score increases as player stays alive in the game. And the level increases every 250 points. 
+Player has a health bar, which lowers if player touches an enemy. The score increases as player stays alive in the game. And the level increases every 250 points. 
 
 By pressing the "p" the player can pause the game.
 Pressing the space brings up the game shop
